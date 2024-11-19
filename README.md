@@ -45,7 +45,7 @@ In today's data-driven world, extracting actionable insights from complex datase
 - **Exportable Reports**: Save insights and models as files for further use.
 
 <p align="center">
-  <a href="https://ai-powered-data-analysis-tool-dawood.streamlit.app/" target="_blank">
+  <a href="https://data-analysis-tool-by-dawood.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Try%20The%20App-%2331A8FF?style=for-the-badge">
   </a>
 </p>
