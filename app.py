@@ -4,11 +4,11 @@ import streamlit as st
 
 # Page Configuration
 st.set_page_config(
-    page_title="Data Analysis Portal",
+    page_title="DataScope",
     page_icon="📈",
     layout="wide"
 )
-
+st.title(":rainbow[Welcome To DataScope 📊🔍]")
 st.title(":rainbow[Data Analytics Portal]")
 st.subheader(":gray[Explore Data With Ease]", divider="rainbow")
 
